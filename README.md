@@ -1,3 +1,9 @@
+# Fork description
+
+This fork is designed to modify the original action to our (DRAM/DMSC) in-house setup for signing binaries with the EV
+certificate.
+
+
 Thank you to [Dirk Lemstra](https://github.com/dlemstra/code-sign-action) for providing a base for me to create this action. 
 
 # Code sign a file

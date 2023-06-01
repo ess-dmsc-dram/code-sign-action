@@ -1,22 +1,22 @@
 {
-  "name": "code-sign-action",
+  "name": "ESS-code-sign-action",
   "version": "1.0.0",
-  "description": "Sign files with a code signing certificate.",
+  "description": "Sign files with the ESS code signing certificate.",
   "main": "index.js",
   "scripts": {
     "build": "tsc && ncc build lib/index.js -m"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DanaBear/code-sign-action.git"
+    "url": "git+https://github.com/ess-dmsc-dram/code-sign-action.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DanaBear/code-sign-action/issues"
+    "url": "https://github.com/ess-dmsc-dram/code-sign-action/issues"
   },
-  "homepage": "https://github.com/DanaBear/code-sign-action#readme",
+  "homepage": "https://github.com/ess-dmsc-dram/code-sign-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.0"
   },
